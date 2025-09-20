@@ -1,0 +1,204 @@
+[
+  {
+    "solution": [
+      ["T", "A", "P"],
+      ["A", "R", "E"],
+      ["P", "E", "T"]
+    ],
+    "clues": {
+      "across": {
+        "1": {"start": [0, 0], "length": 3, "clue": "Lightly touch"},
+        "2": {"start": [1, 0], "length": 3, "clue": "2nd person singular of be"},
+        "3": {"start": [2, 0], "length": 3, "clue": "Domesticated animal"}
+      },
+      "down": {
+        "1": {"start": [0, 0], "length": 3, "clue": "Liquid dispenser"},
+        "2": {"start": [0, 1], "length": 3, "clue": "Metric unit equal to 100 square metres"},
+        "3": {"start": [0, 2], "length": 3, "clue": "Stroke affectionately"}
+      }
+    }
+  },
+  {
+    "solution": [
+      ["T", "O", "E"],
+      ["O", "N", "E"],
+      ["E", "N", "D"]
+    ],
+    "clues": {
+      "across": {
+        "1": {"start": [0, 0], "length": 3, "clue": "Digit on a foot"},
+        "2": {"start": [1, 0], "length": 3, "clue": "The number after zero"},
+        "3": {"start": [2, 0], "length": 3, "clue": "Finish"}
+      },
+      "down": {
+        "1": {"start": [0, 0], "length": 3, "clue": "Foot part"},
+        "2": {"start": [0, 1], "length": 3, "clue": "Single"},
+        "3": {"start": [0, 2], "length": 3, "clue": "Terminate"}
+      }
+    }
+  },
+  {
+    "solution": [
+      ["W", "O", "W"],
+      ["O", "H", "O"],
+      ["W", "O", "W"]
+    ],
+    "clues": {
+      "across": {
+        "1": {"start": [0, 0], "length": 3, "clue": "Exclaim with amazement"},
+        "2": {"start": [1, 0], "length": 3, "clue": "Utterance expressing sudden realization"},
+        "3": {"start": [2, 0], "length": 3, "clue": "Expression of awe"}
+      },
+      "down": {
+        "1": {"start": [0, 0], "length": 3, "clue": "Impress greatly"},
+        "2": {"start": [0, 1], "length": 3, "clue": "Spoken as 'I see!'"},
+        "3": {"start": [0, 2], "length": 3, "clue": "Utter astonishment"}
+      }
+    }
+  },
+  {
+    "solution": [
+      ["M", "A", "N"],
+      ["A", "N", "A"],
+      ["N", "A", "N"]
+    ],
+    "clues": {
+      "across": {
+        "1": {"start": [0, 0], "length": 3, "clue": "Adult male human"},
+        "2": {"start": [1, 0], "length": 3, "clue": "Palindromic woman’s name"},
+        "3": {"start": [2, 0], "length": 3, "clue": "British slang for grandmother"}
+      },
+      "down": {
+        "1": {"start": [0, 0], "length": 3, "clue": "Grown-up guy"},
+        "2": {"start": [0, 1], "length": 3, "clue": "Name similar to Ann"},
+        "3": {"start": [0, 2], "length": 3, "clue": "Grandma, informally"}
+      }
+    }
+  },
+  {
+    "solution": [
+      ["M", "O", "M"],
+      ["O", "H", "O"],
+      ["M", "O", "M"]
+    ],
+    "clues": {
+      "across": {
+        "1": {"start": [0, 0], "length": 3, "clue": "Female parent"},
+        "2": {"start": [1, 0], "length": 3, "clue": "Expression of discovery"},
+        "3": {"start": [2, 0], "length": 3, "clue": "Parent who might say 'Because I said so!'"}
+      },
+      "down": {
+        "1": {"start": [0, 0], "length": 3, "clue": "Mater"},
+        "2": {"start": [0, 1], "length": 3, "clue": "Utterance when a secret is uncovered"},
+        "3": {"start": [0, 2], "length": 3, "clue": "Caretaker at home"}
+      }
+    }
+  },
+  {
+    "solution": [
+      ["L", "A", "P"],
+      ["A", "P", "E"],
+      ["P", "E", "N"]
+    ],
+    "clues": {
+      "across": {
+        "1": {"start": [0, 0], "length": 3, "clue": "Part of your body a child might sit on"},
+        "2": {"start": [1, 0], "length": 3, "clue": "Primate"},
+        "3": {"start": [2, 0], "length": 3, "clue": "Animal enclosure or writing instrument?"}
+      },
+      "down": {
+        "1": {"start": [0, 0], "length": 3, "clue": "To drink by licking"},
+        "2": {"start": [0, 1], "length": 3, "clue": "To copy slavishly"},
+        "3": {"start": [0, 2], "length": 3, "clue": "Place animals live; also used to write"}
+      }
+    }
+  },
+  {
+    "solution": [
+      ["R", "A", "M"],
+      ["A", "M", "A"],
+      ["M", "A", "R"]
+    ],
+    "clues": {
+      "across": {
+        "1": {"start": [0, 0], "length": 3, "clue": "Male sheep"},
+        "2": {"start": [1, 0], "length": 3, "clue": "Abbrev. for an association of physicians"},
+        "3": {"start": [2, 0], "length": 3, "clue": "Spoil or disfigure"}
+      },
+      "down": {
+        "1": {"start": [0, 0], "length": 3, "clue": "To strike forcefully"},
+        "2": {"start": [0, 1], "length": 3, "clue": "Abbrev. for 'ask me anything' sessions"},
+        "3": {"start": [0, 2], "length": 3, "clue": "Damage the surface of something"}
+      }
+    }
+  },
+  {
+    "solution": [
+      ["C", "A", "R", "D"],
+      ["A", "R", "E", "A"],
+      ["R", "E", "A", "R"],
+      ["D", "A", "R", "N"]
+    ],
+    "clues": {
+      "across": {
+        "1": {"start": [0, 0], "length": 4, "clue": "Plastic or paper rectangle used for playing or payment"},
+        "2": {"start": [1, 0], "length": 4, "clue": "Open space measurement"},
+        "3": {"start": [2, 0], "length": 4, "clue": "Back part of something"},
+        "4": {"start": [3, 0], "length": 4, "clue": "To mend a hole in fabric; or mild exclamation"}
+      },
+      "down": {
+        "1": {"start": [0, 0], "length": 4, "clue": "Greeting or credit device"},
+        "2": {"start": [0, 1], "length": 4, "clue": "Field measurement"},
+        "3": {"start": [0, 2], "length": 4, "clue": "Tail end"},
+        "4": {"start": [0, 3], "length": 4, "clue": "Repair torn socks, perhaps"}
+      }
+    }
+  },
+  {
+    "solution": [
+      ["B", "A", "L", "L"],
+      ["A", "R", "E", "A"],
+      ["L", "E", "A", "N"],
+      ["L", "A", "N", "D"]
+    ],
+    "clues": {
+      "across": {
+        "1": {"start": [0, 0], "length": 4, "clue": "Object used in many games; also to cry loudly"},
+        "2": {"start": [1, 0], "length": 4, "clue": "Open space or measurement of a surface"},
+        "3": {"start": [2, 0], "length": 4, "clue": "To incline or rely"},
+        "4": {"start": [3, 0], "length": 4, "clue": "To come down to earth"}
+      },
+      "down": {
+        "1": {"start": [0, 0], "length": 4, "clue": "Sphere used in sports"},
+        "2": {"start": [0, 1], "length": 4, "clue": "Portion of ground; or yard"},
+        "3": {"start": [0, 2], "length": 4, "clue": "To rely or tilt"},
+        "4": {"start": [0, 3], "length": 4, "clue": "Ground or soil"}
+      }
+    }
+  },
+  {
+    "solution": [
+      ["S", "A", "T", "O", "R"],
+      ["A", "R", "E", "P", "O"],
+      ["T", "E", "N", "E", "T"],
+      ["O", "P", "E", "R", "A"],
+      ["R", "O", "T", "A", "S"]
+    ],
+    "clues": {
+      "across": {
+        "1": {"start": [0, 0], "length": 5, "clue": "Latin for 'sower'; first word of a famous 5-by-5 palindrome"},
+        "2": {"start": [1, 0], "length": 5, "clue": "Obscure proper name appearing in the Sator Square"},
+        "3": {"start": [2, 0], "length": 5, "clue": "Principle or belief"},
+        "4": {"start": [3, 0], "length": 5, "clue": "Dramatic musical work"},
+        "5": {"start": [4, 0], "length": 5, "clue": "Plural of Latin for wheel"}
+      },
+      "down": {
+        "1": {"start": [0, 0], "length": 5, "clue": "Beginning of the ancient palindrome referencing a farmer"},
+        "2": {"start": [0, 1], "length": 5, "clue": "Second line in the famous five-word Latin square"},
+        "3": {"start": [0, 2], "length": 5, "clue": "Middle word of the Sator Square; also a common English word meaning 'doctrine'"},
+        "4": {"start": [0, 3], "length": 5, "clue": "Fourth word in a palindromic Latin prayer; also type of musical performance"},
+        "5": {"start": [0, 4], "length": 5, "clue": "Last word of a Latin square; means 'wheels'"}
+      }
+    }
+  }
+]
